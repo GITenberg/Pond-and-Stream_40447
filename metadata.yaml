@@ -1,0 +1,36 @@
+_repo: Pond-and-Stream_40447
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Craine, Frances
+    gutenberg_agent_id: '40625'
+    url: http://www.gutenberg.org/2009/agents/40625
+covers:
+- cover_type: archival
+  image_path: 40447-h/images/img01-cover2.jpg
+creator:
+  author:
+    agent_name: Ransome, Arthur
+    birthdate: 1884
+    deathdate: 1967
+    gutenberg_agent_id: '601'
+    url: http://www.gutenberg.org/2009/agents/601
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Ransome
+description: ''
+gutenberg_issued: '2012-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ponds -- Juvenile literature'
+- !lcsh 'Natural history -- Juvenile literature'
+- !lcc 'QH'
+- !lcsh 'Rivers -- Juvenile literature'
+tableOfContents: About the book -- The duck pond -- Stream and ditch -- Lake and river
+  -- Our own aquarium.
+title: Pond and Stream
+url: http://www.gutenberg.org/ebooks/40447
